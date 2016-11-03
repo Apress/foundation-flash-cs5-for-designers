@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClips/Butterfly" itemID="4b3c18c4-000002ac" sourceLibraryItemHRef="MovieClips/Symbol 1" lastModified="1262232958" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="Butterfly">
+      <layers>
+        <DOMLayer name="LeftWing" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClips/WingL" name="" centerPoint3DX="64" centerPoint3DY="61.5">
+                  <transformationPoint>
+                    <Point x="64" y="61.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="RightWing" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClips/WingR" name="" selected="true" centerPoint3DX="176.6" centerPoint3DY="74.75">
+                  <matrix>
+                    <Matrix tx="104.1" ty="26.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72.5" y="48"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Body" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClips/Body" name="" centerPoint3DX="106.05" centerPoint3DY="66">
+                  <matrix>
+                    <Matrix tx="37.05" ty="4.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69" y="61.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

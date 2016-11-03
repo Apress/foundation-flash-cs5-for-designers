@@ -1,0 +1,46 @@
+<flashbooks>
+	<book title="Flash Applications for Mobile Devices" publisher="friendsofEd" pageCount="514">
+		<authors>
+			<author>Richard Leggett</author>
+			<author>Weyert de Boer</author>
+			<author>Scott Janousek</author>
+		</authors>
+	</book>
+	<book title="ActionScript 3.0 Image Effects" publisher="friendsofEd" pageCount="663">
+		<authors>
+			<author>Todd Yard</author>
+		</authors>
+	</book>
+	<book title="ActionScript 3.0 Animation: Making Things Move" publisher="friendsofEd" pageCount="542">
+		<authors>
+			<author>Keith Peters</author>
+		</authors>
+	</book>
+	<book title="Flash Math Creativity" publisher="friendsofEd" pageCount="264">
+		<authors>
+			<author>David Hirmes</author>
+			<author>JD Hooge</author>
+			<author>Ken Jokol</author>
+			<author>Pavel Kaluzhny</author>
+			<author>Ty Lettau</author>
+			<author>Lifaros</author>
+			<author>Jamie MacDonald</author>
+			<author>Gabriel Mulzer</author>
+			<author>Kip Parker</author>
+			<author>Keith Peters</author>
+			<author>Paul Prudence</author>
+			<author>Glen Rhodes</author>
+			<author>Manny Tan</author>
+			<author>Jared Tarbell</author>
+			<author>Brandon Williams</author>
+		</authors>
+	</book>
+	<book title="Foundation ActionScript 3.0" publisher="friendsofEd" pageCount="566">
+		<authors>
+			<author>Steve Webster</author>
+			<author>Todd Yard</author>
+			<author>Sean McSharry</author>
+		</authors>
+	</book>
+	
+</flashbooks>
